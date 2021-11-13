@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hrithik Prasad</h1>
 <h3 align="center">A full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishvar99&label=Profile%20views&color=0e75b6&style=flat" alt="ishvar99" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Hrithikcse52&label=Profile%20views&color=0e75b6&style=flat" alt="Hrithikcse52" /> </p>
 
 - 🔭 I’m currently working on **MERN Stack and Flutter**
 
