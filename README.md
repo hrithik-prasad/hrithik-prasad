@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MERN Stack and Flutter**
 
-- 🌱 I’m currently learning **Python && Django**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **anything**
 
