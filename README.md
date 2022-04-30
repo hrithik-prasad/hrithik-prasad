@@ -4,7 +4,7 @@ Hi 👋 My name is Hrithik Prasad
 Full Stack Web Developer
 ------------------------
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Hrithikcse52&label=Profile%20views&color=0e75b6&style=flat" alt="Hrithikcse52" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hrithikcse52&label=Profile%20views&color=0e75b6&style=flat" alt="Hrithikcse52" /> </p>
 
 I've been building web apps for 2 years now and worked in few companies
 
