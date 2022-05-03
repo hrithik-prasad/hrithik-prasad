@@ -8,7 +8,7 @@ Full Stack Web Developer
 
 I've been building web apps for 2 years now and worked in few companies
 
-* 🌍  I'm based in WFH
+* 🌍  I'm Working From Home
 * 🖥️  See my portfolio at [Portfolio](http://noobhrithik.netlify.app/)
 * ✉️  You can contact me at [hrithik.cse52@gmail.com](mailto:hrithik.cse52@gmail.com)
 * 🧠  I'm learning Next js, Typescript
